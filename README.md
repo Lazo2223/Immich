@@ -30,3 +30,12 @@ After it is up and running you can dowload the mobile app and log in.
 
 Here is how it looks at the end.
 
+<img width="1421" alt="Screenshot 2024-10-31 at 13 07 02" src="https://github.com/user-attachments/assets/8beb7a64-02fb-45b5-8202-fc299c0363dc">
+
+![IMG_0995](https://github.com/user-attachments/assets/32388a5b-72c9-4177-9cf5-f4244a7f2f45)
+
+![IMG_0994](https://github.com/user-attachments/assets/727044ce-16f7-4f47-b952-1d6489403550)
+
+
+
+
